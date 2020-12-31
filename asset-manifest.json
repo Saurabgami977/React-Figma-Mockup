@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Figma-Mockup/static/css/main.736f1099.chunk.css",
+    "main.js": "/React-Figma-Mockup/static/js/main.04ff86bb.chunk.js",
+    "main.js.map": "/React-Figma-Mockup/static/js/main.04ff86bb.chunk.js.map",
+    "runtime-main.js": "/React-Figma-Mockup/static/js/runtime-main.82fcafb8.js",
+    "runtime-main.js.map": "/React-Figma-Mockup/static/js/runtime-main.82fcafb8.js.map",
+    "static/js/2.359afde8.chunk.js": "/React-Figma-Mockup/static/js/2.359afde8.chunk.js",
+    "static/js/2.359afde8.chunk.js.map": "/React-Figma-Mockup/static/js/2.359afde8.chunk.js.map",
+    "static/js/3.22fd4145.chunk.js": "/React-Figma-Mockup/static/js/3.22fd4145.chunk.js",
+    "static/js/3.22fd4145.chunk.js.map": "/React-Figma-Mockup/static/js/3.22fd4145.chunk.js.map",
+    "index.html": "/React-Figma-Mockup/index.html",
+    "static/css/main.736f1099.chunk.css.map": "/React-Figma-Mockup/static/css/main.736f1099.chunk.css.map",
+    "static/js/2.359afde8.chunk.js.LICENSE.txt": "/React-Figma-Mockup/static/js/2.359afde8.chunk.js.LICENSE.txt",
+    "static/media/bg.fa112ded.jpg": "/React-Figma-Mockup/static/media/bg.fa112ded.jpg",
+    "static/media/body.d2117edc.jpg": "/React-Figma-Mockup/static/media/body.d2117edc.jpg",
+    "static/media/potraitbg.5c860d2d.jpg": "/React-Figma-Mockup/static/media/potraitbg.5c860d2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82fcafb8.js",
+    "static/js/2.359afde8.chunk.js",
+    "static/css/main.736f1099.chunk.css",
+    "static/js/main.04ff86bb.chunk.js"
+  ]
+}
