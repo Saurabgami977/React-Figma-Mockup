@@ -1,4 +1,4 @@
-import { BottomNavigation, BottomNavigationAction, Typography } from '@material-ui/core';
+import { BottomNavigation, BottomNavigationAction, Typography, useMediaQuery } from '@material-ui/core';
 import React from 'react';
 import Logo from '../../UI/Logo/Logo';
 import { makeStyles } from '@material-ui/core/styles';
@@ -13,14 +13,19 @@ const useStyles = makeStyles({
 });
 
 export default function Footer() {
+
+    const isSmall = useMediaQuery("(max-width: 500px)")
     const classes = useStyles();
     const [value, setValue] = React.useState(0);
+
+    let changeDisplay = isSmall ? 'column' : 'row';
     return (
         <div style={{
-            height: '30vh',
             width: '98.8vw',
             padding: '40px',
             display: 'flex',
+            height: '50vh',
+            flexDirection: changeDisplay,
             justifyContent: 'space-between',
             alignItems: 'center',
         }}>
